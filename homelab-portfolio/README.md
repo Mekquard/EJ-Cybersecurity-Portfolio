@@ -1,9 +1,8 @@
-# Homelab Portfolio — [Efrain Martinez III (EJ)]
+# Homelab Cybersecurity Portfolio — Efrain Martinez III (EJ)
 
-Security-focused homelab where I build detection infrastructure, simulate attacks, and write up the findings the way I would in a SOC shift handoff. This repo is a working log of that lab, not a polished résumé — expect it to grow as I add more.
+Security Operations focused homelab where I build detection rules, simulate attacks, conduct in-depth email header analysis, network security and write up the findings the way I would in a SOC shift handoff. This repo is a working log of my cyber lab projects — expect it to grow as I add more.
 
-**Target role:** SOC Analyst / Security Operations
-**Background:** [1-2 sentences — e.g. "Transitioning from IT support into security, Sec+ certified, building hands-on detection experience."]
+**Background:** Cybersecurity professional with 3 years of hands-on experience in Security Operations, threat detection, and incident response. Currently working as an IT Security Specialist | SOC Analyst supporting federal environments, where I analyze phishing threats, conduct compliance and vulnerability scans using Tenable, manage security incidents end-to-end, and coordinate remediation efforts with system administrators.
 
 ## What's in here
 
@@ -17,10 +16,8 @@ Security-focused homelab where I build detection infrastructure, simulate attack
 
 ## Lab architecture (high-level)
 
-*(Add a diagram here once you have one — even a simple draw.io export or ASCII diagram helps. Example:)*
-
 ```
-[Kali attacker VM] --> [Target VMs: Windows/Linux] --> [Wazuh/Splunk/ELK] --> [Dashboards + Alerts]
+[Kali attacker VM] --> [Target VMs: Windows/Linux] --> [Wazuh/Splunk] --> [Dashboards + Alerts]
 ```
 
 ## Featured write-ups
@@ -29,8 +26,8 @@ Security-focused homelab where I build detection infrastructure, simulate attack
 
 ## Skills demonstrated
 
-`SIEM (Wazuh/Splunk/ELK)` `Log analysis` `Sigma rules` `Network traffic analysis` `Windows/Linux event logs` `Incident documentation` `Attack simulation (MITRE ATT&CK mapped)`
+`Incident response` `SIEM (Wazuh/Splunk)` `Log analysis` `Sigma rules` `Network traffic analysis` `Windows/Linux event logs` `Incident documentation` `Attack simulation (MITRE ATT&CK mapped)` `Email header analysis` `Endpoint security` `DFIR` `Threat intelligence`
 
 ## Contact
 
-[LinkedIn] · [Email] · [Resume link, optional]
+www.linkedin.com/in/efrain-martinez-iii · efrainmartinez.0803@gmail.com
