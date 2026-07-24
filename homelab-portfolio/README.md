@@ -1,4 +1,4 @@
-# Homelab Portfolio — [Your Name]
+# Homelab Portfolio — [Efrain Martinez III (EJ)]
 
 Security-focused homelab where I build detection infrastructure, simulate attacks, and write up the findings the way I would in a SOC shift handoff. This repo is a working log of that lab, not a polished résumé — expect it to grow as I add more.
 
