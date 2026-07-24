@@ -1,0 +1,24 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Secrets — never commit these
+*.env
+*.pem
+*.key
+credentials*
+secrets*
+
+# Logs / captures that might contain real data
+*.log
+*.pcap
+*.pcapng
+
+# VM/lab exports (usually too large for git anyway)
+*.ova
+*.vmdk
+*.qcow2
